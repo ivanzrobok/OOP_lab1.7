@@ -1,0 +1,2 @@
+C:\Users\LapStore\source\repos\OOP_lab1.7\testlab\obj\Debug\testlab.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\OOP_lab1.7\testlab\obj\Debug\testlab.csproj.CoreCompileInputs.cache
